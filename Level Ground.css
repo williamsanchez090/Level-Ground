@@ -186,11 +186,7 @@ h5 {
     display: none;
   }
 }
-@media all and (min-width: 768px) and (max-width: 1022px) {
-  .topmain {
-    background: blue;
-  }
-}
+
 @media all and (max-width: 390px) {
   .bottommain {
     display: none;
